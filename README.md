@@ -4,35 +4,21 @@ magictrain
 A bandwidth measurement tool against bandwidth inflation attacks
 
 ==========
-apt-get install libpcap-dev
-
+apt-get install libpcap-dev<br>
 make
 
 ==========
-Usage: 
-
-./mtrain [options] [IP or DNS of target prover]
-
-Options:
-
-  -i iface name. Without -i, mtrain will find iface automatically
-  
-  -e Train type. 0 is TIME_TRAIN, 1 is OF_TRAIN and 2 is SYN_TRAIN
-  
-  -n How many trains used. Default is 3.
-  
-  -s Train length. Default is 100.
-  
-  -m 0=libpcap+rawSocket, 1=kernel+libnetfilter_queue. Packet transmission method selection. Default is 0.
-     
-  -d DEBUG info. enabled.
-  
-  -o Enable output pcap.
-  
-  -t For test supporting rate purpose only.
-  
-  -r For RTT estimation only.
-  
-  -p For packet pair measurement only.
-  
+Usage: <br>
+./mtrain [options] [IP or DNS of target prover]<br>
+Options:<br>
+  -i iface name. Without -i, mtrain will find iface automatically<br>
+  -e Train type. 0 is TIME_TRAIN, 1 is OF_TRAIN and 2 is SYN_TRAIN<br>
+  -n How many trains used. Default is 3.<br>
+  -s Train length. Default is 100.<br>
+  -m 0=libpcap+rawSocket, 1=kernel+libnetfilter_queue. Packet transmission method selection. Default is 0.<br>
+  -d DEBUG info. enabled.<br>
+  -o Enable output pcap.<br>
+  -t For test supporting rate purpose only.<br>
+  -r For RTT estimation only.<br>
+  -p For packet pair measurement only.<br>
   -? Print HELP info..
