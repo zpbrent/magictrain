@@ -9,7 +9,9 @@ apt-get install libpcap-dev
 make
 
 ==========
-Usage: ./mtrain [options] [IP or DNS of target prover]
+Usage: 
+
+./mtrain [options] [IP or DNS of target prover]
 
 Options:
 
@@ -21,9 +23,7 @@ Options:
   
   -s Train length. Default is 100.
   
-  -m 0=libpcap+rawSocket, 1=kernel+libnetfilter_queue.
-  
-     Packet transmission method selection. Default is 0.
+  -m 0=libpcap+rawSocket, 1=kernel+libnetfilter_queue. Packet transmission method selection. Default is 0.
      
   -d DEBUG info. enabled.
   
