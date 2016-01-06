@@ -4,6 +4,18 @@ magictrain
 A bandwidth measurement tool against bandwidth inflation attacks
 
 ==========
+If you use our tool, please cite the paper at:
+-------------------------------------------------------------------------------------------
+@article{zhou2015magic,
+  title={Magic Train: Design of Measurement Methods Against Bandwidth Inflation Attacks},
+  author={Zhou, Peng and Chang, Rocky KC and Gu, Xiaojing and Fei, Minrui and Zhou, Jianying},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2015},
+  publisher={IEEE}
+}
+--------------------------------------------------------------------------------------------
+
+==========
 apt-get install libpcap-dev<br>
 make
 
