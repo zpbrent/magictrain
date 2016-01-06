@@ -25,6 +25,7 @@ Options:<br>
 
 ==========
 If you use our tool, please cite the paper at:<br>
+
 @article{zhou2015magic,<br>
   title={Magic Train: Design of Measurement Methods Against Bandwidth Inflation Attacks},<br>
   author={Zhou, Peng and Chang, Rocky KC and Gu, Xiaojing and Fei, Minrui and Zhou, Jianying},<br>
