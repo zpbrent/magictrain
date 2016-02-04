@@ -4,7 +4,7 @@ magictrain
 A bandwidth measurement tool against bandwidth inflation attacks
 
 ==========
-apt-get install libpcap-dev<br>
+Build the tool:
 make
 
 ==========
