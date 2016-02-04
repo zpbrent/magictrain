@@ -1,7 +1,7 @@
 magictrain
 ==========
 
-A bandwidth measurement tool against bandwidth inflation attacks
+A bandwidth measurement tool which can detect bandwidth inflation attacks
 
 ==========
 Build the tool:<br>
