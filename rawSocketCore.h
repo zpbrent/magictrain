@@ -1,6 +1,7 @@
 /*
  * rawsocketcore.h
  * - Header file for rawsocketcore.cpp
+ * Last modified for release!
  */
 
 #ifndef __rawsocketcore_h__
