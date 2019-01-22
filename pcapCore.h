@@ -1,6 +1,7 @@
 /*
  * pcapcore.h
  * - Header file for pcapcore.cpp
+ * Last modified for release!
  */
 
 #ifndef __pcapcore_h__
