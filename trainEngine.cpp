@@ -1,6 +1,6 @@
 /*
  * trainEngine class is the core of magic train
- * 
+ * Last modified for release!
 */
 
 #include <stdlib.h>
