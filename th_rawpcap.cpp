@@ -1,6 +1,7 @@
 /*
  * rawpcap class for handling packet sending and receiving using raw socket + pcap
  * raw packet is used to send packet while pcap is for packet receiving
+ * Last modified for release!
 */
 
 #include <unistd.h>
