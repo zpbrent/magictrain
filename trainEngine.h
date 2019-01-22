@@ -1,6 +1,7 @@
 /*
  * trainengine.h
  * Header file for magic train engine program
+ * Last modified for release!
 */
 
 #ifndef __trainengine_h__
