@@ -26,10 +26,10 @@ Options:<br>
 ==========
 If you use our tool, please cite the paper at:<br>
 
-@article{zhou2015magic,<br>
+@article{zhou2018magic,<br>
   title={Magic Train: Design of Measurement Methods Against Bandwidth Inflation Attacks},<br>
   author={Zhou, Peng and Chang, Rocky KC and Gu, Xiaojing and Fei, Minrui and Zhou, Jianying},<br>
   journal={IEEE Transactions on Dependable and Secure Computing},<br>
-  year={2015},<br>
+  year={2018},<br>
   publisher={IEEE}<br>
 }<br>
