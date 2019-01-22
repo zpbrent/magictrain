@@ -1,6 +1,7 @@
 /*
  * tranHandler.h
- * Header file for transmission handler template program
+ * Header file for transmission handler template program 
+ * Last modified for release!
 */
 
 #ifndef __tranTemplate_h__
