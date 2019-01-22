@@ -1,6 +1,7 @@
 /*
  * packet class for parsing TCP/IP packets
  * only support IPv4 now!!!
+ * Last modified for release!
 */
 
 #include <errno.h>
