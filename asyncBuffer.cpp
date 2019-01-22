@@ -1,5 +1,6 @@
 /*
  * AsyncBuffer provides an async buffer to store captured packets 
+ * Last modified for release!
 */
 
 #include <time.h>
