@@ -1,5 +1,6 @@
 /*
  * config structure 
+ * Last modified for release!
 */
 
 #ifndef __config_h__
