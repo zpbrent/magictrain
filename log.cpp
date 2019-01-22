@@ -1,6 +1,7 @@
 /*
  * log.cpp
  * Used for printing out debug information
+ * Last modified for release!
 */
 
 #include <stdio.h> 
