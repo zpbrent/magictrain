@@ -1,6 +1,7 @@
 /*
  * log.h
  * Header file for log program
+ * Last modified for release!
 */
 
 #ifndef __log_h__
