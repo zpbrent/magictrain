@@ -5,6 +5,8 @@
  * E-mail: zpbrent@gmail.com
  *  
  * All copy rights reserved. 
+ *
+ * Last modified for release!
  */
 
 #include <stdlib.h>
