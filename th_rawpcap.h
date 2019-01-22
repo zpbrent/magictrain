@@ -1,6 +1,7 @@
 /*
  * th_rawpcap.h
  * Header file for RAW socket + pcap transmission program
+ * Last modified for release!
 */
 
 #ifndef __th_rawpcap_h__
