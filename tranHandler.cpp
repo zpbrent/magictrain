@@ -1,6 +1,7 @@
 /*
  * tranhandler class for handling packet sending and receiving
  * This is just a template and you should implement your own functions using specific tech
+ * Last modified for release!
 */
 
 #include "tranHandler.h"
