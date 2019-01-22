@@ -1,6 +1,7 @@
 /*
  * pcapcore.cpp
  * - Pragram for handling pcapcore functions 
+ * Last modified for release!
  */
 #include <netdb.h>
 #include <net/ethernet.h>
